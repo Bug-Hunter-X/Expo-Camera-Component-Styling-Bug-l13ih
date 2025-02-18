@@ -1,0 +1,1 @@
+This bug occurs when using the Expo SDK's `Camera` component with custom styles.  The styles may not be applied correctly, leading to unexpected visual behavior such as the camera preview not fitting properly within its container or unexpected padding/margins.
